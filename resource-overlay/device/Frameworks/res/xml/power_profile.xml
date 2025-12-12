@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
 <device name="Android">
     <item name="none">0</item>
-    <item name="screen.on">119.94</item>
-    <item name="screen.full">108.124</item>
+    <item name="screen.on.display0">119.94</item>
+    <item name="screen.full.display0">108.124</item>
     <item name="wifi.on">0.384</item>
     <item name="wifi.active">16.256</item>
     <item name="wifi.scan">325.696</item>
